@@ -1,0 +1,26 @@
+id: A4A6BABE8
+title: 'Asaṅga: Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ'
+type: translation
+pechas:
+- I97614E40
+- I3688F886
+- IFB94B8AD
+- I4C7EAEA1
+- IF483F9C9
+- IA92255FE
+source_metadata:
+  languages:
+  - sa
+  - zh
+  - bo
+  - en
+  datatype: PlainText
+  created_at: 2023-02-10 00:26:57.646180
+  last_modified_at: 2023-02-10 00:26:57.646192
+alignment_to_base:
+  I97614E40/5848: 84DB
+  I3688F886/9BFA: 84DB
+  IFB94B8AD/2E99: 84DB
+  I4C7EAEA1/5B18: 84DB
+  IF483F9C9/1E07: 84DB
+  IA92255FE/2404: 84DB
